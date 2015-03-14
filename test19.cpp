@@ -1,4 +1,4 @@
-/* main.cpp */
+/* test19.cpp */
 #include "MyWindow.h"
 #include <gtkmm/application.h>
 
