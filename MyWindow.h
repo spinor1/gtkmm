@@ -1,4 +1,4 @@
-/* MyWindow.h */
+/* MyWindow.h (March 14, 2015) */
 
 #ifndef MYWINDOW_H_
 #define MYWINDOW_H_
