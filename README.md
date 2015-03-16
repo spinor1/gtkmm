@@ -1,2 +1,2 @@
 # gtkmm
-testing Eclipse and GitHub.
+testing push and pull with Eclipse.
