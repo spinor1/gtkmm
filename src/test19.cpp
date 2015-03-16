@@ -8,4 +8,3 @@ int main(int argc, char** argv)
    MyWindow win;
    return app->run(win);
 }
-
