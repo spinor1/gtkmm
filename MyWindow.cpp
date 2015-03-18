@@ -6,7 +6,7 @@
 MyWindow::MyWindow() : m_box(Gtk::ORIENTATION_VERTICAL), m_buttons(Gtk::ORIENTATION_HORIZONTAL),
 		m_button1("reset"), m_button2("shrink"), m_button3("left"), m_button4("right"), m_button5("up"), m_button6("down") {
 	set_title("Not comfortable...");
-	set_default_size(300, 329);
+	set_default_size(200, 229);
 	add(m_box);
 	m_box.pack_start(m_buttons, false, true);
 	m_buttons.pack_start(m_button1, true, true);
