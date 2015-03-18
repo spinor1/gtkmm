@@ -1,1 +1,1 @@
-% g++ *.cpp `pkg-config gtkmm-3.0 --cflags --libs` -std=c++11
+% g++ -std=c++11 *.cpp `pkg-config gtkmm-3.0 --cflags --libs`
